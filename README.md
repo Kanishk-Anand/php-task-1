@@ -47,7 +47,7 @@ http://php.net/manual/en/install.php
 
 ### 3. Submit your code for review
 
-Once you've completed the Tip Calculator application, please [push your app via Github](https://help.github.com/articles/create-a-repo). Also be sure to **include a README** containing a GIF walkthrough using [LiceCap](http://www.cockos.com/licecap/) of the app demonstrating how it works with required user stories completed. Use [this README template](https://google.com).
+Once you've completed the Tip Calculator application, please [push your app via Github](https://help.github.com/articles/create-a-repo). Also be sure to **include a README** containing a GIF walkthrough using [LiceCap](http://www.cockos.com/licecap/) of the app demonstrating how it works with required user stories completed. Use [this README template](https://raw.githubusercontent.com/ACM-SNU/php-task/master/README-template.md).
 
 After you have **completed all required user stories and added a README as described above** then you are ready to notify us that you are ready for a pre-work review. You can either mail us at acm@snu.edu.in or send a pull request to this repository.
 
@@ -58,7 +58,7 @@ After you have **completed all required user stories and added a README as descr
 Please **review the following checklist** to ensure your submission is valid:
   1. Did you successfully **push your code to github**? Can you see the code on GitHub?
   2. Did you **add a README** which includes a **GIF walkthrough** of the app's functionality?
-  3. Did you **use our [README template](http://google.com)** for your README?
+  3. Did you **use our [README template](https://raw.githubusercontent.com/ACM-SNU/php-task/master/README-template.md)** for your README?
   4. Does your **GIF render directly in your README?** When using Imgur, you can right-click on the gif and choose "Copy Image Address" to get the correct address. Make sure the address has a `.gif` extension. If you end up with a url that has a `.gifv` extension, removing the `v` and changing this to `.gif` will ensure the gif renders on GitHub.
 
 Congratulations on completing the required portion of the pre-work! The remaining steps are optional, but **completing them will significantly improve your skills**.
